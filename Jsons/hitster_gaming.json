@@ -1,0 +1,37 @@
+[
+    {
+        "name": "The Legend of Zelda",
+        "description": "The Legend of Zelda Main Theme - Legend of Zelda 25th Anniversary Orchestra",
+        "year": 1986
+    },
+    {
+        "name": "Dragon Quest IX",
+        "description": "Overture",
+        "year": 2009
+    },
+    {
+        "name": "Metroid: Samus Returns",
+        "description": "Metroid: Samus Returns Prologue",
+        "year": 2017
+    },
+    {
+        "name": "Halo",
+        "description": "Halo Theme",
+        "year": 2001
+    },
+    {
+        "name": "The Elder Scrolls III: Morrowind",
+        "description": "The Elder Scrolls III: Morrowind Theme",
+        "year": 2002
+    },
+    {
+        "name": "Sonic Generations",
+        "description": "Classic Green Hill Zone",
+        "year": 2011
+    },
+    {
+        "name": "Kingdom Hearts",
+        "description": "Hikari 光  (Simple and Clean) Orchestral Instrumental Version",
+        "year": 2002
+    }
+]
